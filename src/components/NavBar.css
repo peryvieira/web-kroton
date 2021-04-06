@@ -1,0 +1,24 @@
+nav{
+    display: inline-flex ;
+}
+div{
+    display: inline-flex;
+    flex: 1;
+    align-items: center;
+    justify-content: flex-end;
+    margin-right: 2rem;
+}
+
+nav img{
+    max-width: 2rem;
+    max-height: 2rem;
+}
+nav span{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 140%;
+    text-decoration-line: underline;
+    color: #219653;
+ }
