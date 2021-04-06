@@ -18,9 +18,8 @@ function App() {
         <Card titulo='Título 2' img={img2} content='Content..  ... content. ... content.. .. content.. .. content .. 
           content....content....content....content....content....
           content....content....' button='Botão para detalhes....'/>
-
-        <CardPergunta/>
       </section>
+      <CardPergunta/>
     </div>
   );
 }

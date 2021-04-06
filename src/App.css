@@ -3,19 +3,11 @@
   display: flex;
   flex-direction: column;
   margin: 0;
-  padding: 0;
-}
-nav{
-  display: flex;
-  flex: 1;
-  margin: 0px;
-  background-color: #FFFFFF;
-  height: 80px;
-  width: 100%;
-
+  padding: 1rem;
 }
 section{
   display: flex;
   margin-top: 0.5rem;
-  padding: 0 2rem;
+  padding: 0;
+  /* padding: 0 2rem; */
 }

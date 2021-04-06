@@ -1,5 +1,13 @@
 nav{
-    display: inline-flex ;
+
+        display: flex;
+        flex: 1;
+        margin: 0px;
+        background-color: #FFFFFF;
+        height: 80px;
+        width: 100%;
+      
+      
 }
 div{
     display: inline-flex;
