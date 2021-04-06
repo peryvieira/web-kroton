@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 .App {
   background-color: #F4F4F4;
   display: flex;
   flex-direction: column;
   margin: 0;
   padding: 1rem;
+  font-family: 'Roboto', sans-serif
 }
 section{
   display: flex;
