@@ -2,6 +2,7 @@ import './App.css';
 import {Card} from './components/Card'
 import {NavBar} from './components/NavBar'
 import {CardPergunta} from './components/CardPergunta'
+import {Grid} from './components/Grid'
 import img1 from './resources/img1.png'
 import img2 from './resources/img2.png'
 
@@ -20,6 +21,7 @@ function App() {
           content....content....' button='Botão para detalhes....'/>
       </section>
       <CardPergunta/>
+      <Grid/>
     </div>
   );
 }

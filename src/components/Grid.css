@@ -1,0 +1,21 @@
+.grid{
+    flex-direction: column;
+}
+.grid h2{
+    align-self: flex-start;
+    padding-left: 0.5rem;
+    flex: 1;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 20px;
+    color: #333333;
+}
+.grid-box{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    
+    
+}
